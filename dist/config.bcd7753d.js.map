@@ -1,0 +1,1 @@
+{"version":3,"sources":["config.js"],"names":["config","KEY"],"mappings":"AAAA,IAAMA,MAAM,GAAG;AACbC,EAAAA,GAAG,EAAE;AADQ,CAAf","file":"config.bcd7753d.js","sourceRoot":"..","sourcesContent":["const config = {\r\n  KEY: 'AIzaSyBy6lE31brZiCUcX4AJJNkvzhMlyNVIgI4'\r\n};\r\n"]}
